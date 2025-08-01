@@ -1,6 +1,13 @@
 # 🏥 Medical Diagnosis Chatbot
 
+[![GitHub stars](https://img.shields.io/github/stars/MSMITH71910/medical-diagnosis-Bot-Webapp?style=social)](https://github.com/MSMITH71910/medical-diagnosis-Bot-Webapp/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/MSMITH71910/medical-diagnosis-Bot-Webapp?style=social)](https://github.com/MSMITH71910/medical-diagnosis-Bot-Webapp/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/MSMITH71910/medical-diagnosis-Bot-Webapp)](https://github.com/MSMITH71910/medical-diagnosis-Bot-Webapp/issues)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A modern, professional web application for medical diagnosis assessment, specifically focused on dehydration evaluation. Built with Python Flask backend and React frontend.
+
+> **Live Demo**: Clone and run locally to see the full interactive experience!
 
 ![Medical Diagnosis Bot Screenshot](images/Medical-Diagnosis-Bot.png)
 
@@ -259,17 +266,48 @@ cd frontend
 npm run build
 ```
 
-## Contributing
+## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
+We welcome contributions to improve the Medical Diagnosis Bot! Here's how you can help:
 
-## License
+### 🐛 Bug Reports
+- Use the [GitHub Issues](https://github.com/MSMITH71910/medical-diagnosis-Bot-Webapp/issues) page
+- Include steps to reproduce the issue
+- Provide screenshots if applicable
 
-This project is for educational purposes. Please ensure compliance with medical software regulations if used in clinical settings.
+### 💡 Feature Requests
+- Open an issue with the "enhancement" label
+- Describe the feature and its benefits
+- Consider the medical context and user safety
+
+### 🔧 Development Contributions
+1. **Fork** the repository
+2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
+3. **Make** your changes with proper testing
+4. **Commit** your changes (`git commit -m 'Add amazing feature'`)
+5. **Push** to the branch (`git push origin feature/amazing-feature`)
+6. **Open** a Pull Request
+
+### 📋 Development Guidelines
+- Follow existing code style and structure
+- Add comments for complex medical logic
+- Test all API endpoints thoroughly
+- Ensure responsive design works on all devices
+- Update documentation for new features
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### ⚠️ Medical Disclaimer
+This application is for **educational and demonstration purposes only**. It should not be used as a substitute for professional medical advice, diagnosis, or treatment. Always consult with qualified healthcare professionals for medical decisions.
+
+### 🏥 Clinical Use
+If you plan to use this application in a clinical setting, please ensure:
+- Compliance with local medical software regulations
+- Proper data privacy and security measures (HIPAA, GDPR, etc.)
+- Validation by medical professionals
+- Appropriate user training and supervision
 
 ## 🔄 Transformation: CLI to Web App
 
