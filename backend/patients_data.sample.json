@@ -1,0 +1,35 @@
+[
+  {
+    "id": "2024-01-01T10:00:00",
+    "name": "Mike",
+    "diagnosis": "Severe dehydration",
+    "timestamp": "2024-01-01 10:00:00",
+    "assessment_data": {
+      "appearance": "2",
+      "eyes": null,
+      "skin": "2"
+    }
+  },
+  {
+    "id": "2024-01-01T11:00:00",
+    "name": "Sally",
+    "diagnosis": "No dehydration",
+    "timestamp": "2024-01-01 11:00:00",
+    "assessment_data": {
+      "appearance": "1",
+      "eyes": "1",
+      "skin": null
+    }
+  },
+  {
+    "id": "2024-01-01T12:00:00",
+    "name": "Kate",
+    "diagnosis": "Some dehydration",
+    "timestamp": "2024-01-01 12:00:00",
+    "assessment_data": {
+      "appearance": "2",
+      "eyes": null,
+      "skin": "1"
+    }
+  }
+]

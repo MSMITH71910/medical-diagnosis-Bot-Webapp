@@ -1,0 +1,18 @@
+{
+  "name": "medical-diagnosis-bot",
+  "version": "1.0.0",
+  "description": "Medical Diagnosis Chatbot - Dehydration Assessment Tool",
+  "scripts": {
+    "install-all": "cd backend && pip install -r requirements.txt && cd ../frontend && npm install",
+    "start-backend": "./start-backend.sh",
+    "start-frontend": "./start-frontend.sh",
+    "dev": "concurrently \"npm run start-backend\" \"npm run start-frontend\"",
+    "build": "cd frontend && npm run build"
+  },
+  "keywords": ["medical", "diagnosis", "chatbot", "react", "flask", "healthcare"],
+  "author": "Medical Diagnosis Bot Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  }
+}
